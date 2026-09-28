@@ -1,4 +1,5 @@
 -- depso
+-- Why not use the luau version? Because I can't be bothered to parse it 🫩
 
 --// Standard luau
 local LuauChunk = loadstring("export type T = { x: number, y: number }")
