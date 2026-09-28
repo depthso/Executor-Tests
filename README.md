@@ -1,5 +1,5 @@
-# Executor-Tests
-Test the implimentations of functions in your favourite Roblox executors
+# Executor Implementation Tests
+Test the common functions in your Roblox executors with intense edge-cases which most executors fail
 
 <img width="60%" height="auto" alt="ArceusX" src="https://github.com/user-attachments/assets/426ae959-e131-4459-bff8-5bedd33a86fc" />
 
@@ -9,7 +9,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/depthso/Executor-Test
 ```
 
 # Submitting a result
-If you wish to submit a result open a pull request or issue with the screenshot. I may approve at some point 
+If you wish to submit a result open a discussion with the screenshot, please include the function pass results
 
 # FAQ
 - The script errors on execution
